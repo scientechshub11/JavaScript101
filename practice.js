@@ -90,8 +90,8 @@
   ]
 
   //filter
-  // let newProduct = products.filter(val=>val.stock>36)
-  // console.log(newProduct)
+  let newProduct = products.filter(val=>val.stock>36)
+  console.log(newProduct)
 
   //find
 
